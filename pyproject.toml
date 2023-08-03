@@ -10,6 +10,7 @@ packages = [{include = "aa_prompts"}]
 python = "^3.11"
 aleph-alpha-client = "^3.1.5"
 python-dotenv = "^1.0.0"
+semantic-text-splitter = "^0.2.2"
 
 
 [build-system]
