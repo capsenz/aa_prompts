@@ -22,11 +22,11 @@ Answer: By utilizing the Fourier transform, researchers gain the capability to e
 Text: Good morning Lorenz,
 perfect. In terms of content, we would like to stay with the questions that were originally planned.
 From our side, seven people, including myself, will participate.
-Also, we would still like to start at 11:00. I will send you the Webex meeting link in time. Would that fit for you?
+Also, we would still like to start at 11:00. I will send you the online meeting link in time. Would that fit for you?
 Best regards
-Til
+Jonas
 Question: When will the meeting start and how many people will attend?
-Answer: The meeting will be held via Webex. The proposed start time is 11:00 and seven people will attend.
+Answer: The meeting will be held via an online meeting. The proposed start time is 11:00 and seven people will attend.
 ###
 Text: There are four pollination groups in apple trees, depending on climate:
 Group A – Early flowering, 1 to 3 May in England ('Gravenstein', 'Red Astrachan')
